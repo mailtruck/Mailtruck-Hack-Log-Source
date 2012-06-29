@@ -1,0 +1,21 @@
+---
+layout: post
+title: "My Hands Are On the New Retina Macbook Pro"
+date: 2012-06-27 19:26
+comments: false
+categories: "AAPL"
+---
+
+Hey Ya'll.
+
+It's been forever sense a post, but this isn't an active blog so no one cares!
+
+I haven't gotten my publishing workflow down yet, but I took some downtime at the Apple Store to ssh in and work some blog post magic.
+
+I'm writing this from one of the new thinner retina Macbook Pros.
+
+The screen looks pretty nice but the thing is huge.
+
+I have to cocur with the people that say you can't really tell the difference, but that doesn't make me want this less.
+
+Ok time to see if I can remember how to deploy this back up to github.
